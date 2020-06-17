@@ -1,0 +1,21 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Arduino_FingerIn_doorOpener-PCB-boards_PCB1_57660
+*Date=08:11:53
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;rj45-8;60.2849;-41.9333;-90;Bottom;Relay
+2;;;34.9489;-51.5479;-180;Bottom;Part1
+3;;rj45-8;60.2229;-64.4639;-90;Bottom;RFID sensor
+4;;;32.8784;-16.326;-90;Bottom;YwRobot Power Supply1
+5;;rj45-8;6.22436;-41.172;90;Bottom;Fingerprint
+6;;rj45-8;6.50659;-64.8872;90;Bottom;LCD

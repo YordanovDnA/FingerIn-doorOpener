@@ -1,0 +1,17 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Arduino_FingerIn_doorOpener-PCB-boards_PCB3_854578470
+*Date=08:13:31
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;SIP (Single Inline) [THT];23.6832;-31.7884;0;Bottom;LCD 16X2 I2C
+2;;rj45-8;9.02456;-6.50372;0;Bottom;U8
