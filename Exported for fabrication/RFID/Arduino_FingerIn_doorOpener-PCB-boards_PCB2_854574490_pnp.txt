@@ -1,0 +1,22 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Arduino_FingerIn_doorOpener-PCB-boards_PCB2_854574490
+*Date=10:38:57
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;1.92389;-28.2368;0;Bottom;Hole12
+2;;SIP (Single Inline) [THT];14.6513;-24.0227;-90;Bottom;RFID READER
+3;;rj45-8;12.6455;-6.85449;0;Bottom;U7
+4;;;24.8259;-28.3836;0;Bottom;Hole13
+5;;;24.5323;-1.81142;0;Bottom;Hole15
+6;;;20.5821;-14.5327;0;Bottom;Via1
+7;;;1.92389;-1.95823;0;Bottom;Hole14

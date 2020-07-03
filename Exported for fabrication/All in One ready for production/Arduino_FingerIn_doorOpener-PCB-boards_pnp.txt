@@ -1,0 +1,47 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Arduino_FingerIn_doorOpener-PCB-boards
+*Date=10:56:10
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;144.725;-59.3164;0;Bottom;Hole16
+2;;;95.6907;-70.9142;0;Bottom;Hole2
+3;;SIP (Single Inline) [THT];6.53499;-64.1283;0;Bottom;LCD 16X2 I2C
+4;;;95.9843;-47.1314;0;Bottom;Hole4
+5;;;113.909;-15.0762;0;Bottom;Via1
+6;;rj45-8;31.7273;-41.2772;90;Bottom;Fingerprint
+7;;;60.4519;-51.6532;180;Bottom;Part1
+8;;SIP (Single Inline) [THT];105.599;-67.8975;90;Bottom;IC1
+9;;;3.20176;-21.7336;0;Bottom;Hole10
+10;;rj45-8;17.0717;-27.7255;-90;Bottom;U8
+11;;;122.982;-59.1849;0;Bottom;Hole18
+12;;;2.90815;-71.3547;0;Bottom;Hole9
+13;;;144.871;-46.5441;0;Bottom;Hole7
+14;;rj45-8;133.509;-51.5649;0;Bottom;Relay
+15;;SIP (Single Inline) [THT];107.978;-24.5662;-90;Bottom;RFID READER
+16;;;118.152;-28.9272;0;Bottom;Hole13
+17;;rj45-8;85.7879;-42.0384;-90;Bottom;Relay
+18;;;21.4059;-37.2952;0;Bottom;Hole11
+19;;;95.2503;-28.7804;0;Bottom;Hole12
+20;;;117.859;-2.35496;0;Bottom;Hole15
+21;;SIP (Single Inline) [THT];133.555;-68.9501;-90;Bottom;Relay
+22;;;28.8349;-10.8698;-90;Bottom;TXT1
+23;;rj45-8;85.7258;-64.5691;-90;Bottom;RFID sensor
+24;;;117.125;-47.425;0;Bottom;Hole3
+25;;;58.3814;-16.4312;90;Bottom;YwRobot Power Supply1
+26;;;21.5527;-71.061;0;Bottom;Hole8
+27;;rj45-8;32.0096;-64.9924;90;Bottom;LCD
+28;;rj45-8;105.972;-7.39803;0;Bottom;U7
+29;;rj45-8;106.078;-51.6108;0;Bottom;U9
+30;;;95.2503;-2.50176;0;Bottom;Hole14
+31;;;122.769;-46.9188;0;Bottom;Hole17
+32;;;116.831;-70.7674;0;Bottom;Hole1

@@ -4,7 +4,7 @@
 *eMail=
 *
 *Project=Arduino_FingerIn_doorOpener-PCB-boards_PCB5_854584490
-*Date=08:15:12
+*Date=10:39:24
 *CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
 *
 *
@@ -13,5 +13,9 @@
 *Rotation in degree (0-360, math. pos.)
 *
 *No;Value;Package;X;Y;Rotation;Side;Name
-1;;rj45-8;11.8609;-6.74549;0;Bottom;U9
-2;;SIP (Single Inline) [THT];11.8439;-18.9539;90;Bottom;IC1
+1;;;23.0542;-25.9022;0;Bottom;Hole1
+2;;;2.20752;-2.2661;0;Bottom;Hole4
+3;;SIP (Single Inline) [THT];11.822;-23.0323;90;Bottom;IC1
+4;;;23.3479;-2.55972;0;Bottom;Hole3
+5;;;1.9139;-26.049;0;Bottom;Hole2
+6;;rj45-8;12.3014;-6.7455;0;Bottom;U9
